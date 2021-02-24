@@ -1,2 +1,2 @@
 # prueba1
-Estamos  pruebando GIT
+Estamos  prubando GIT
